@@ -1,2 +1,11 @@
-# CRA-ts-tailwind-template
-Create React App + Typescript + Tailwindcss + Eslint + Prettier template
+# Frontend Template
+
+Package Management: Yarn v1.22.10
+
+Packages Installed:
+
+- Typescript
+- Tailwindcss
+- Eslint
+- Prettier
+- lint-staged
