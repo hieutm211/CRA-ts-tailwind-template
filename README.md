@@ -1,4 +1,4 @@
-# Frontend Template
+# Frontend typescript Template
 
 Package Management: Yarn v1.22.10
 
